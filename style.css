@@ -1,0 +1,57 @@
+body{
+    box-sizing: content-box;
+    background-color: #000;
+    color: #d79232;
+    font-family: 'Playfair Display', sans-serif;
+}
+.page-title{
+    color: #fff;
+    text-align: center;
+}
+.main-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    min-width: 230px;
+}
+.book-main-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.book-container{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-left: 5px;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    padding: 6px;
+}
+
+.book-title {
+    margin: 0;
+    font-size: 20px;
+}
+
+.book-author {
+    margin: 0;
+    font-size: 12px;
+}
+button {
+    background-color: #000;
+    color: #d79232;
+    border-style: solid;
+    border-color: #d79232;
+    border-width: 1px;
+    padding: 6px;
+}
+.remove-book{
+    max-width: 70px;
+}
