@@ -52,3 +52,7 @@ function removeBook(title) {
 }
 
 addButton.addEventListener('click', addBook);
+const x = 0;
+if (x === 1) {
+  removeBook();
+}
