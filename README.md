@@ -47,21 +47,23 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">Microverse</a></li>
+    <li><a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
+    <li><a href="https://www.javascript.com/">JavaScript</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Github</a></li>
+    <li><a href="#">Not Applicable</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">Local Storage</a></li>
+    <li><a href="#">Not Applicable</a></li>
   </ul>
 </details>
 
@@ -91,61 +93,24 @@ Visual Studio
 
 Clone this repository to your desired folder:
 
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+- On GitHub.com, navigate to the main page of the repository.
+- Above the list of files, click  Code.
+- Copy the URL for the repository.
+- Open Terminal.
+- Change the current working directory to the location where you want the cloned directory.
+- Type git clone, and then paste the URL you copied earlier.
+- Press Enter to create your local clone.
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
 --->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+- Git Hub Pages. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -158,20 +123,17 @@ Example:
 👤 **Diego Cuenca**
 
 - GitHub: [@dgcuenca](https://github.com/dgcuenca)
-
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/diego-cuenca?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKbNMKch7QoKWf8%2FVrlKCqg%3D%3D)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Improve UX experience]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,23 +161,7 @@ If you like this project please leave us a star
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+- I would like to thank all my microverse classmates. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
